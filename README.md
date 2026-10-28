@@ -1,5 +1,3 @@
-Yeah, the previous one was way too much for a GitHub README. For the repo, I'd keep it **clean, technical, and brief** while still showing the evolution from your original project.
-
 # Contracts Intelligence Platform
 
 An AI-powered evolution of my original **[Contracts Tracker](https://github.com/Sydney-Nyanchoga/Contracts-Tracker)**.
@@ -58,7 +56,7 @@ The goal is to move from simply **tracking contracts** to enabling the system to
 ## Development Roadmap
 
 * [x] Core contract management
-* [ ] Document upload & storage
+* [x] Document upload & storage
 * [ ] OCR & text extraction
 * [ ] AI contract information extraction
 * [ ] Semantic search
